@@ -1,0 +1,11 @@
+C:\Users\Przem\source\repos\arkanoid\OpenGL\obj\Debug\arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\Przem\source\repos\arkanoid\OpenGL\obj\Debug\arkanoid.csproj.CoreCompileInputs.cache
+C:\Users\Przem\source\repos\arkanoid\OpenGL\obj\Debug\OpenGL.exe
+C:\Users\Przem\source\repos\arkanoid\OpenGL\obj\Debug\OpenGL.pdb
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\OpenGL.exe.config
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\OpenTK.dll
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\OpenTK.xml
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\INIFileParser.dll
+C:\Users\Przem\source\repos\arkanoid\OpenGL\bin\Debug\INIFileParser.xml
